@@ -1,13 +1,10 @@
 ### Oi! Me chamo Leo 👋🙋‍♂️
 
-<p>Cursando 4° periodo de ciência da computação na UFAL</p>
 
-##
-<!--  
-<div>
-<img align="center" alt="Leo-gif" src="https://br.pinterest.com/pin/806496245757641773/.gif">
-</div>
--->
+<img align="right" height="193" width="400" alt="Leo-gif" src="/to_readme/guaxinim.gif">
+
+
+<p>Cursando 4° periodo de ciência da computação na UFAL</p>
 
 <h3>Contato</h3>
 
