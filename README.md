@@ -4,7 +4,7 @@
 <img align="right" height="193" width="400" alt="Leo-gif" src="/to_readme/guaxinim.gif">
 
 
-<p>Cursando 4° periodo de ciência da computação na UFAL</p>
+<p>Cursando 5° periodo de ciência da computação na UFAL</p>
 
 <h3>Contato</h3>
 
